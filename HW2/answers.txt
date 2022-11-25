@@ -1,0 +1,9 @@
+1: In our code we did repeat some code, for example: in median function we used code lines that we wrote in histogram function
+we used the code of histogram function with nbins=100 , in order to decrase the repetiton we should have called the histogram function
+ with nbins =100.
+In min and max functions we repeated the code the only difference was the two paramters min and max and the if cases in the two
+functions, in order to decrase the repetiton we should have used the same function for min and max and , for example using the min function 
+and adding max parmater and a new if case to it.
+2: answer: yes the grades that we choose are uniformly divided. in order to check this we can use the median function: by giving the median 
+function random grades we will see that the median is close to 50.so half of the grades are smaller than 50 and the other numbers are bigger 
+than 50 , in other words there is no preference between the grades so our grades are uniformly divided. 
