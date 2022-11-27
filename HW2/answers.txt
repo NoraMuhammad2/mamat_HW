@@ -1,0 +1,5 @@
+A: answer: doing this manually for sure will take alot of hours working with a group and maybey days!
+B: answer: from this question we can conclude that bash is very usefull sometimes, another task that can be implemented using this idea
+is for example: searching for a specific word in an article for example searching in an article on a a command that is helpfull in bash,by using the idea 
+we can know exactly in which article the command was mentioned.(the num of the command will be >0 in this article)
+C: answer: in order to not scan articles which have been scaned we can use uniq command. also we can use the crontab commands in order to run our script every hour.
